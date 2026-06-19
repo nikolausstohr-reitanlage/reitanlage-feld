@@ -2,7 +2,7 @@ import Section, { SectionTitle } from "../layout/Section";
 import { Footprints, Leaf, Users, Sun } from "lucide-react";
 
 const highlights = [
-  { icon: Footprints, text: "Täglicher Auslauf in Kleingruppen (2–8 Pferde)" },
+  { icon: Footprints, text: "Täglicher Auslauf in Kleingruppen (1–8 Pferde)" },
   { icon: Leaf, text: "Ganzjähriger Koppelgang & Sommerweide" },
   { icon: Users, text: "Persönliche, familiäre Betreuung" },
   { icon: Sun, text: "Harmonische & friedliche Atmosphäre" },

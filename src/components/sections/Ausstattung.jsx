@@ -57,7 +57,7 @@ export default function Ausstattung() {
       >
         <h3 className="font-heading text-xl font-bold text-charcoal mb-4">Wunderschönes Ausreitgelände</h3>
         <div className="grid md:grid-cols-2 gap-6 text-sm text-warm-gray leading-relaxed">
-          <p>Die Reitanlage Feld liegt in einer der schönsten Ausreigegenden Baden-Württembergs — mit guten Verbindungen nach Österreich und in die Schweiz. Trails durch Wald und Wiesen direkt vor der Haustür.</p>
+          <p>Die Reitanlage Feld liegt in einer der schönsten Ausreitgegenden Baden-Württembergs — mit guten Verbindungen nach Österreich und in die Schweiz. Trails durch Wald und Wiesen direkt vor der Haustür.</p>
           <p>Neben dem Vollpensionstrakt bieten wir auch einen separaten Stalltrakt mit Selbstversorgung an — ideal für Reiter, die ihre Pferde selbst versorgen möchten.</p>
         </div>
       </motion.div>
