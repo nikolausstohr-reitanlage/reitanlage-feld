@@ -3,7 +3,7 @@ import Section, { SectionTitle } from "../layout/Section";
 import { Dumbbell, Wind, Droplets, Zap, Home, TreePine, Coffee, Star } from "lucide-react";
 
 const features = [
-  { icon: Dumbbell, title: "Reithalle 20×40 m", desc: "Mit Beregnungsanlage und Quarzsand-Vlieshäcksel-Gemisch. Regelmäßig geeggt, gewalzt und bewässert.", tags: ["Dressur", "Springen", "überdacht"] },
+  { icon: Dumbbell, title: "Reithalle 20×40 m", desc: "Mit Beregnungsanlage und Quarzsand-Vlieshäcksel-Gemisch. Regelmäßig geegggggt, gewalzt und bewässert.", tags: ["Dressur", "Springen", "überdacht"] },
   { icon: TreePine, title: "Außenreitplatz 20×60 m", desc: "Sand-Vliesfaser-Gemisch, regelmäßig gepflegt. Ideal für Training in der freien Natur.", tags: ["Outdoor", "Dressur", "Springen"] },
   { icon: Wind, title: "Außenboxen mit Paddock", desc: "Großzügige Außenboxen mit eigenem Paddock — jede Box selbstverständlich mit Fenster.", tags: ["Paddockbox", "Außenbox", "Innenbox"] },
   { icon: Droplets, title: "Waschplatz & Solarium", desc: "Waschbox innen und außen, Pferdetrocknungsplatz mit Rotlicht für optimale Pflege.", tags: ["Waschbox", "Rotlicht", "Pflege"] },
