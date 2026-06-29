@@ -40,7 +40,7 @@ export default function Kontakt() {
                   </div>
                   <div>
                     <p className="text-white font-semibold">Adresse</p>
-                    <p className="text-white/60 text-sm">Feld 12, 88289 Waldburg · Baden-Württemberg</p>
+                    <p className="text-white/60 text-sm">Feld 12, 88289 Waldburg - Baden-Württemberg</p>
                   </div>
                 </div>
 
@@ -57,7 +57,7 @@ export default function Kontakt() {
                     <p className="text-white font-semibold flex items-center gap-2">
                       Nachricht schreiben <ExternalLink size={14} className="text-white/40" />
                     </p>
-                    <p className="text-white/60 text-sm">Über unser Profil auf Stall-Frei.de</p>
+                    <p className="text-white/60 text-sm">reitanlage-feld@web.de </p>
                   </div>
                 </a>
 
