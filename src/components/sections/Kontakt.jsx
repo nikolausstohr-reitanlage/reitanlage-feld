@@ -30,7 +30,7 @@ export default function Kontakt() {
                   </div>
                   <div>
                     <p className="text-white font-semibold">Telefon</p>
-                    <p className="text-white/60 text-sm">Telefonisch erreichbar ab 17 Uhr</p>
+                    <p className="text-white/60 text-sm">0160 9232 4555</p>
                   </div>
                 </div>
 
@@ -40,7 +40,7 @@ export default function Kontakt() {
                   </div>
                   <div>
                     <p className="text-white font-semibold">Adresse</p>
-                    <p className="text-white/60 text-sm">Feld, 88289 Waldburg · Baden-Württemberg</p>
+                    <p className="text-white/60 text-sm">Feld 12, 88289 Waldburg · Baden-Württemberg</p>
                   </div>
                 </div>
 
